@@ -4,7 +4,7 @@
 
 html5 came with new tags which make it easyer to read from pepole and browesr like
 
-> <header>, <footer>, <aside>, <artical>, <section>, <nav>, etc....
+` <header>, <footer>, <aside>, <artical>, <section>, <nav>` etc....
 
 html5 resbonsive with desining 
 
