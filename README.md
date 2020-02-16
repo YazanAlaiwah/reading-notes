@@ -10,7 +10,7 @@ it will contain all what we did learn about 201 phase in ***Read*** topics
 
 Number|Topic name | link
 ------|-----------|------
-1.    |`class-01` |[Here](https://yazanalaiwah.github.io/reading-notes/class-01)
+1.    |***class-01*** |[Here](https://yazanalaiwah.github.io/reading-notes/class-01)
 2.    |-----------|------
 3.    |-----------|------
 4.    |-----------|------
