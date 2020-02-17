@@ -45,11 +45,10 @@ the above css will make big font with color of red its work like this
 External CSS -> wich have a css file and call it from html **best practice**
 Internal CSS -> have `<Style>` tag in the head of html file
 
-
-
 #### Javascript (JS)
 
 ##### type of data
+
 1. string -> "Hello World!"
 2. Number -> 1.25
 3. Boolen -> true/false
@@ -63,20 +62,18 @@ you can change the value any time after declere it.
 
 ##### array
 
-its declared like `new Array(1,2,3)` or shortcut `[1,2,3]` its like multi varibels in order index first its start with index 0 
-
+its declared like `new Array(1,2,3)` or shortcut `[1,2,3]` its like multi varibels in order index first its start with index 0
 
 ##### if statment
 
 ```javascript
-  var a = 3
-  if( a < 5){
-    console.log('a less then 5')
-  }else{
-    console.log('a greater then 5')
-  }
+var a = 3;
+if (a < 5) {
+  console.log("a less then 5");
+} else {
+  console.log("a greater then 5");
+}
 ```
+
 start with word if follow by parntheses inside it the condition follow by curly brackt in side it the code that you want to make if the condition is true
 else to invoke if there is no condition is true
- 
-
