@@ -64,3 +64,19 @@ you can change the value any time after declere it.
 ##### array
 
 its declared like `new Array(1,2,3)` or shortcut `[1,2,3]` its like multi varibels in order index first its start with index 0 
+
+
+##### if statment
+
+```javascript
+  var a = 3
+  if( a < 5){
+    console.log('a less then 5')
+  }else{
+    console.log('a greater then 5')
+  }
+```
+start with word if follow by parntheses inside it the condition follow by curly brackt in side it the code that you want to make if the condition is true
+else to invoke if there is no condition is true
+ 
+
