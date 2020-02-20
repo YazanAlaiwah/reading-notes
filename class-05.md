@@ -22,3 +22,9 @@ hex codes -> These are six-digit codes that represent the amount of red, green a
 
 color names -> its the name of the color (red,green,black,etc)
 
+###### color
+it will make you change your text color
+
+###### background-color
+it will chamge the back ground color
+ 
