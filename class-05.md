@@ -27,4 +27,25 @@ it will make you change your text color
 
 ###### background-color
 it will chamge the back ground color
- 
+
+
+#### Text
+
+###### propertys
+
+- font-famlily -> The font-family property allows you to specify the typeface that should be used for any text inside the element(s) to which a CSS rule applies.
+
+- font-size -> The font-size property enables you to specify a size for the font. There are several ways to specify the size of a font common ways.
+
+1. pixels -> its most common way to type the size of your font example `font-size: 20px`.
+2. percentages -> the defulte text size if 16 px so if you type 200% it will be 32px example `font-size: 75%`
+3. ems -> An em is equivalent to the width of a letter m
+
+###### @font-face
+font-face -> will allow you to downlood the font style if its not in pc of the user and its take
+- font-family -> the name of the font name
+- src -> to till browser were will fint the path of the font
+
+
+
+
