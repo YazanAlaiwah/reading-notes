@@ -37,3 +37,12 @@ get El ement Byld () |getElementsByClassName()|parentNode
 querySe 1 ector () | getElementsByTagName() |previousSibl ing / nextSibl ing
 | querySelectorAll() |firstChild / lastChild
 
+###### Traversing the DOM
+
+you can select element in another element in relation with these five proepties
+
+parentNode -> its reference to continar of the selected element 
+previousSibling/nextSibling ->  these properties find the before and next elements of the selcet element
+firstChild/lastChild -> to have the first and last element of the select node
+
+
