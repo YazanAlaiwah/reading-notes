@@ -72,3 +72,4 @@ function Obj(name, age) {
 
 var obj = new Obj('yaza', 24);
 ```
+we can change the object in both type by using the dot `obj.gender = 'male'`
