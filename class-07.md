@@ -43,8 +43,32 @@ a row.
 
 `rowspan` -> its an attribute will make the columns have multiy row
 
-#### Objects 
+#### Objects
 
 there is two type of objects Literal notation and Constructior notation
 
+literal notation example
 
+```javascript
+var obj = {
+  name: 'yazan',
+  age: 24,
+  des: function() {
+    return this.name + this.age;
+  }
+};
+```
+
+Constructior notation
+
+```javascript
+function Obj(name, age) {
+  this.name = name;
+  this.age = age;
+  this.des = function() {
+    return this.name + this.age;
+  };
+}
+
+var obj = new Obj('yaza', 24);
+```
