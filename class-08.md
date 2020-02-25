@@ -18,3 +18,11 @@ Css have the following positioning schemes will allow you to controle the layout
 | position it would be in normal to any place by spicfiy the top,left,bottom,right |
 | Absolute positioning                                                             | its like `relative` but its will apper above from the element with effect the layout |
 
+###### Fixed width layouts
+its use pixels and its static *not daynamic with the screens*
+
+###### Liquid Layouts
+
+its use percentages and its daynamic with the screens
+
+
