@@ -24,8 +24,17 @@ its to let javascript response to the html like when click a buttom or something
 
 ##### type of events
 
-|sdkjflsj|sdfkjklf|
-|--------|--------|
-|jdslj|dskjlfk|||jsdjfkl|dkslkdslf|
-|-----|-------|||-------|---------|
-|lkjjl|lksfjd |||jsdflkj|dsfds|
+- **UI Events**
+  - load -> Web page has finished loading 
+  - unload -> when the page unloading
+  - resize -> when the browser window have resize
+  - scroll -> when scroll the page
+  - error -> Browser encounters a JavaScript error or an asset doesn't exist
+- **KEYBOARD EVENTS**
+  - keydown -> when user press the key.
+  - keyup -> when user releases the key
+  - keypress -> Character is being inserted 
+- **MOUSE EVENTS**
+  - click -> when click the mouse
+  - dbclick -> when click twice
+  
