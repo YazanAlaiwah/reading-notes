@@ -1,4 +1,4 @@
-# Code 201 Reading Notes
+# Code 201, 301 Reading Notes
 
 ![note](https://images-na.ssl-images-amazon.com/images/I/81nia28xsOL._AC_SX466_.jpg)
 
@@ -25,3 +25,26 @@ Number|Topic name | link
 13.   |***class-13***|[Here](https://yazanalaiwah.github.io/reading-notes/class-13)
 14.   |***class-14***|[Here](https://yazanalaiwah.github.io/reading-notes/class-14)
 15.   |***class-15***|[Here](https://yazanalaiwah.github.io/reading-notes/class-15)
+
+
+
+
+### links to the pages for topics in 301 phase 
+
+Number|Topic name | link
+------|-----------|------
+1.    |***read-01*** |[Here](https://yazanalaiwah.github.io/reading-notes/read-01)
+2.    |***read-02***|[Here](https://yazanalaiwah.github.io/reading-notes/read-02)
+3.    |***read-03***|[Here](https://yazanalaiwah.github.io/reading-notes/read-03)
+4.    |***read-04***|[Here](https://yazanalaiwah.github.io/reading-notes/read-04)
+5.    |***read-05***|[Here](https://yazanalaiwah.github.io/reading-notes/read-05)
+6.    |***read-06***|[Here](https://yazanalaiwah.github.io/reading-notes/read-06)
+7.    |***read-07***|[Here](https://yazanalaiwah.github.io/reading-notes/read-07)
+8.    |***read-08***|[Here](https://yazanalaiwah.github.io/reading-notes/read-08)
+9.    |***read-09***|[Here](https://yazanalaiwah.github.io/reading-notes/read-09)
+10.   |***read-10***|[Here](https://yazanalaiwah.github.io/reading-notes/read-10)
+11.   |***read-11***|[Here](https://yazanalaiwah.github.io/reading-notes/read-11)
+12.   |***read-12***|[Here](https://yazanalaiwah.github.io/reading-notes/read-12)
+13.   |***read-13***|[Here](https://yazanalaiwah.github.io/reading-notes/read-13)
+14.   |***read-14***|[Here](https://yazanalaiwah.github.io/reading-notes/read-14)
+15.   |***read-15***|[Here](https://yazanalaiwah.github.io/reading-notes/read-15)
