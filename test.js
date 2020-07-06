@@ -33,11 +33,12 @@ function test(key, obj2, length2) {
   }
   return count;
 }
-console.log(countPatternsFrom('D', 3), 37);
-// console.log(countPatternsFrom('C', 2), 5);
-// console.log(countPatternsFrom('A', 0), 0);
-// console.log(countPatternsFrom('A', 10), 0);
-// console.log(countPatternsFrom('B', 1), 1);
 
-// console.log(countPatternsFrom('E', 4), 256);
-// console.log(countPatternsFrom('E', 8), 23280);
+console.log(countPatternsFrom('D', 3), 37);
+console.log(countPatternsFrom('C', 2), 5);
+console.log(countPatternsFrom('A', 0), 0);
+console.log(countPatternsFrom('A', 10), 0);
+console.log(countPatternsFrom('B', 1), 1);
+
+console.log(countPatternsFrom('E', 4), 256);
+console.log(countPatternsFrom('E', 8), 23280);
